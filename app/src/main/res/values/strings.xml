@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Musical</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="rewind_text">Rewind</string>
+    <string name="play_text">Play</string>
+    <string name="pause_text">pause</string>
+    <string name="forward_text">Forward</string>
+    <string name="back_text">Back</string>
+
+    <string name="shuffle_on_text">shuffle_on</string>
+    <string name="shuffle_off_text">shuffle_off</string>
+
+    <string name="repeat_off_text">repeat_off</string>
+    <string name="repeat_all_text">repeat_all</string>
+    <string name="repeat_one_text">repeat_one</string>
+    <string name="default_time_value">00:00</string>
+
+</resources>
